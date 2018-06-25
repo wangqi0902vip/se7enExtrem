@@ -1,0 +1,33 @@
+{
+  "commonStyle": {
+    "opacity": 1,
+    "borderStyle": "none",
+    "borderColor": "rgba(0, 0, 0, 0)",
+    "borderWidth": 0,
+    "borderRadius": 0,
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "backgroundSize":"cover",
+    "backgroundImage":""
+  },
+  "defaultStyle":[
+    {
+      "textDecoration":"none",
+      "fontWeight":"normal",
+      "fontStyle":"normal",
+      "textAlign":"center",
+      "lineHeight":200,
+      "fontSize":36,
+      "fontFamily":"SimSun",
+      "color":"rgba(0, 0, 0, 1)"
+    },
+    {
+
+    },
+    {
+
+    },
+    {
+
+    }
+  ]
+}
